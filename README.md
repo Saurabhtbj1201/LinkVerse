@@ -20,7 +20,7 @@ _A sleek and modern LinkTree alternative with a stylish UI, social media links, 
 ---
 
 ## 🚀 **Live Demo**
-🔗 **[View Live](https://linkverse-six.vercel.app/)**  
+🔗 **[View Live](https://links-g2.vercel.app/)**  
 
 ---
 
