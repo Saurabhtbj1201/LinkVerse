@@ -4,7 +4,7 @@
 ### **📌 LinkVerse - Your Digital Identity in One Place! 🚀**  
 _A sleek and modern LinkTree alternative with a stylish UI, social media links, a portfolio section, FAQs, and a contact form._
 
-![LinkVerse Preview](https://your-image-link.com)  
+![LinkVerse Preview](images/mobile.png)  
 
 ---
 
@@ -20,7 +20,7 @@ _A sleek and modern LinkTree alternative with a stylish UI, social media links, 
 ---
 
 ## 🚀 **Live Demo**
-🔗 **[View Live](https://your-live-demo-link.com)**  
+🔗 **[View Live](https://linkverse-six.vercel.app/)**  
 
 ---
 
@@ -61,8 +61,8 @@ _A sleek and modern LinkTree alternative with a stylish UI, social media links, 
 ---
 
 ## 📬 **Contact**
-📧 **Email:** your-email@example.com  
-🔗 **Portfolio:** [your-portfolio-link.com]([https://your-portfolio-link.com](https://www.gu-saurabh.tech/))  
+📧 **Email:** Saurabhtbj143@outlook.com
+🔗 **Portfolio:** (https://www.gu-saurabh.tech/)  
 
 ---
 
