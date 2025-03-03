@@ -385,7 +385,7 @@ footer {
   padding: 10px;
   margin-top: 40px;
 }
-.follow-me, .share {
+.share {
   margin-bottom: 15px;
 }
 footer h3 {
@@ -452,7 +452,24 @@ footer h3 {
     padding: 10px 12px;
     font-size: 16px;
   }
+  .portfolio-header h2 {
+    font-size: 17px;
+  }
+  .share {
+    margin-bottom: 10px;
+  }
+  footer h3 {
+    font-size: 14px;
+  }
+  .share-icons {
+    gap: 13px;
+  }
+  .share-icons img {
+    width: 30px;
+    height: 30px;
+  }
 }
+
 @media screen and (max-width: 480px) {
   /* For Small Mobile Screens */
   .container {
@@ -481,4 +498,24 @@ footer h3 {
     padding: 10px 12px;
     font-size: 16px;
   }
+  .portfolio-header h2 {
+    font-size: 17px;
+  }
+  footer {
+    padding: 8px;
+    margin-top: 30px;
+  }
+  .share {
+    margin-bottom: 10px;
+  }
+  footer h3 {
+    font-size: 14px;
+  }
+  .share-icons {
+    gap: 13px;
+  }
+  .share-icons img {
+    width: 30px;
+    height: 30px;
+  }
 }
